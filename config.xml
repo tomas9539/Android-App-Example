@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;&#13;</para>
+  <para>&lt;widget xmlns   = "http://www.w3.org/ns/widgets"&#13;</para>
+  <para>    xmlns:gap   = "http://phonegap.com/ns/1.0"&#13;</para>
+  <para>    id          = "com.memorygame.AndroidExample"&#13;</para>
+  <para>    versionCode = "10"&#13;</para>
+  <para>    version     = "1.0.0" &gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;!-- versionCode is optional and Android only --&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>  &lt;name&gt;Memory&lt;/name&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>  &lt;description&gt;&#13;</para>
+  <para>      Juego de memoria.&#13;</para>
+  <para>  &lt;/description&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>  &lt;author href="https://build.phonegap.com" email="support@phonegap.com"&gt;&#13;</para>
+  <para>      Tomas&#13;</para>
+  <para>  &lt;/author&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>  &lt;icon src="icon.png" /&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;/widget&gt;</para>
+</article>
